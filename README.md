@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:24283b,100:7aa2f7&height=170&section=header&text=Habib%20Talib&fontColor=c0caf5&fontSize=52&fontAlignY=34&desc=CTO%20%40%20iLuvQuran%20%C2%B7%20Synctexts%20Solution%20%C2%B7%20Malaysia&descAlignY=54&descSize=16" width="100%" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=I'd+rather+trust+a+system+I+can+read;than+a+promise+I+can't.;CTO+who+never+left+the+codebase." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=I'd+rather+trust+a+system+I+can+read;than+a+promise+I+can't.;CTO+who+never+left+the+codebase." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -32,12 +30,24 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habibtalib&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habibtalib&layout=compact&langs_count=10&hide=html,css&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habibtalib&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibtalib&theme=tokyonight&utcOffset=8" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibtalib&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" width="98%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/habibtalib/habibtalib/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/habibtalib/habibtalib/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/habibtalib/habibtalib/output/github-snake.svg" width="98%" />
+  </picture>
 </p>
 
 ---
