@@ -25,21 +25,21 @@
 ### 📊 By the numbers
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=habibtalib&show_icons=true&count_private=true&include_all_commits=true&hide=stars,issues&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5" height="180" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" height="180" />
   <img src="https://streak-stats.demolab.com/?user=habibtalib&theme=tokyonight&hide_border=true&background=1A1B27&stroke=7AA2F7&ring=BB9AF7&fire=F7768E&currStreakLabel=7AA2F7" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=habibtalib&layout=compact&langs_count=10&hide=html,css&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habibtalib&theme=tokyonight" height="165" />
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="165" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibtalib&theme=tokyonight&utcOffset=8" height="165" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibtalib&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5&area=true" width="98%" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" />
 </p>
 
 <p align="center">
